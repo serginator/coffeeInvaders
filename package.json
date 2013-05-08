@@ -1,0 +1,34 @@
+{
+  "name": "coffeeInvaders",
+  "version": "0.0.0",
+  "description": "An invaders game with CoffeeScript",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serginator/coffeeInvaders.git"
+  },
+  "scripts": {
+    "test": "grunt build"
+  },
+  "keywords": [
+    "space",
+    "invaders",
+    "javascript",
+    "coffeescript",
+    "game"
+  ],
+  "author": "Sergio Ruiz",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-karma": "~0.4.4"
+  }
+}

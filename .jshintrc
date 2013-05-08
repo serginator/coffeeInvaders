@@ -1,0 +1,15 @@
+{
+  "browser": true,
+  "bitwise": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "forin": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true,
+  "quotmark": "single",
+  "trailing": true
+}
